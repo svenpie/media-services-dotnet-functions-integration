@@ -8,9 +8,9 @@
         "functionKey": {
             "value" : "GEN-UNIQUE"
         },
-        "sourceCodeRepositoryURL": {
-            "value": "ENTER PATH TO YOUR FORK OF - https://github.com/Azure-Samples/media-services-dotnet-functions-integration"
-        },
+      "sourceCodeRepositoryURL": {
+        "value": "https://github.com/svenpie/media-services-dotnet-functions-integration"
+      },
         "sourceCodeBranch": {
             "value": "master"
         },
